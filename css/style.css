@@ -5,3 +5,33 @@
 .logoNavbar{
     width: 100px;
 }
+
+.mini_titulo{
+    font-size: small;
+    margin-top: 10px;
+}
+
+section div h2{
+    margin-top: -10px;
+}
+
+.oradores{
+    width: auto;
+    height: 100vh;
+}
+
+.oradores .card{
+    width: 80%;
+    margin: 15px;
+}
+
+.img_cards{
+    width: 100%;
+    height: auto;
+}
+
+.oradores .card p{
+    font-weight: normal;
+    font-size: small;
+    line-height: 1.8;
+}
