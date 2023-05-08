@@ -8,6 +8,18 @@
     width: 100px;
 }
 
+.img_carrusel{
+    filter: brightness(50%);
+}
+
+.carrusel_texto{
+    margin-bottom:250px;
+}
+
+.boton_ticket:hover{
+    filter: brightness(115%);
+}
+
 .mini_titulo{
     font-size: small;
     margin-top: 10px;
@@ -40,4 +52,15 @@ section div h2{
 
 .texto_formulario span{
     border-bottom: 2px dotted black;
+}
+
+footer{
+    background-color: #1d3947;
+}
+
+.footer_link{
+    color:#aeb6bf;
+}
+.footer_link:hover{
+    color: white;
 }
