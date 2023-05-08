@@ -37,3 +37,7 @@ section div h2{
     font-size: small;
     line-height: 1.8;
 }
+
+.texto_formulario span{
+    border-bottom: 2px dotted black;
+}
